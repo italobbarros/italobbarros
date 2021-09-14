@@ -6,10 +6,10 @@
 
 <div>
   <a href="https://github.com/italobbarros">
-  <img height="135" src="https://github-readme-stats.vercel.app/api?username=italobbarros&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=compact&langs_count=7&theme=prussian"/>
-  <img alt="gif" height="135" width="80" src="https://github.com/italobbarros/italobbarros/blob/main/plaquinha.gif">
-  <img alt="gif" height="135" width="110" src="https://github.com/italobbarros/italobbarros/blob/main/my3Dprint.gif">  
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=italobbarros&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=compact&langs_count=7&theme=prussian"/>
+  <img alt="gif" height="120" width="75" src="https://github.com/italobbarros/italobbarros/blob/main/plaquinha.gif">
+  <img alt="gif" height="120" width="100" src="https://github.com/italobbarros/italobbarros/blob/main/my3Dprint.gif">  
 </div>
 
 <div style="display: inline_block"><br>
