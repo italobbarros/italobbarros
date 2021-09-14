@@ -1,8 +1,7 @@
-### Hello World! 👋🤞🎮
+### Hello World! 🤞🎮
 
 - ⚙  I’m a maker and a future eletronic engineer
 - 🔭 I’m currently working on embedded system
-- 🌱 I’m currently learning flutter
 
 <div>
   <a href="https://github.com/italobbarros">
