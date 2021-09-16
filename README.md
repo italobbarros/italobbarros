@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/italobbarros">
   <img height="120" src="https://github-readme-stats.vercel.app/api?username=italobbarros&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=compact&langs_count=7&theme=midnight-purple&count_private=true"/>
   <img alt="gif" height="120" width="100" src="https://github.com/italobbarros/italobbarros/blob/main/my3Dprint.gif">  
 </div>
 
