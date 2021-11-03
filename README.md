@@ -11,10 +11,8 @@
   <img alt="gif" height="120" width="100" src="https://github.com/italobbarros/italobbarros/blob/main/my3Dprint.gif"></img>  
 </div>
 
- <div>
-   <a href="https://italobbarros.github.io/"><img height="40" src="https://cdn-icons.flaticon.com/png/512/2195/premium/2195529.png?token=exp=1635935698~hmac=1960220c371dce3226a6f3cce3bcc4d4"> </img></a>
-   <a>Curriculum</a>
- </div> 
+ 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -22,7 +20,9 @@
   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Embedded" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+  <a href="https://italobbarros.github.io/"><img height="40" src="https://cdn-icons.flaticon.com/png/512/2195/premium/2195529.png?token=exp=1635935698~hmac=1960220c371dce3226a6f3cce3bcc4d4"> </img></a>
 </div>
+ <div><a>Curriculum</a></div>
   
   
  
