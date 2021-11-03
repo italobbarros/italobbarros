@@ -12,7 +12,7 @@
 
   </div>
 <div   
-  stule = "width: 100px;
+  style = "width: 100px;
   height: 100px;
   background: #FFF;
   border-radius: 10px;">Curriculum</div>
