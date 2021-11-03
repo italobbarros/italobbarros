@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/italobbarros">
-  <img height="130" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=compact&langs_count=7&theme=midnight-purple&count_private=true"></img><a/>
-  <img alt="gif" height="130" width="100" src="https://github.com/italobbarros/italobbarros/blob/main/my3Dprint.gif"></img>
+  <img height="140" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=compact&langs_count=7&theme=midnight-purple&count_private=true"></img><a/>
+  <img alt="gif" height="140" width="100" src="https://github.com/italobbarros/italobbarros/blob/main/my3Dprint.gif"></img>
 
 
   </div>
