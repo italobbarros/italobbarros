@@ -12,7 +12,7 @@
 </div>
 
  <div>
-   <a href="https://italobbarros.github.io/"><img height="120" src="https://cdn-icons.flaticon.com/png/512/2195/premium/2195529.png?token=exp=1635935698~hmac=1960220c371dce3226a6f3cce3bcc4d4"></img></a>
+   <a height="120" href="https://italobbarros.github.io/"><img height="120" src="https://cdn-icons.flaticon.com/png/512/2195/premium/2195529.png?token=exp=1635935698~hmac=1960220c371dce3226a6f3cce3bcc4d4">Curriculum</img></a>
  </div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
