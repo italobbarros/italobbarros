@@ -8,8 +8,8 @@
   <a href="https://github.com/italobbarros">
   <img height="130" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=compact&langs_count=7&theme=midnight-purple&count_private=true"></img><a/>
   <img alt="gif" height="130" width="100" src="https://github.com/italobbarros/italobbarros/blob/main/my3Dprint.gif"></img>
-  <div><a href="https://italobbarros.github.io/"><img height="30" src="https://cdn-icons.flaticon.com/png/512/2195/premium/2195529.png?token=exp=1635935698~hmac=1960220c371dce3226a6f3cce3bcc4d4"> </img></a><br>
-  <a>Curriculum</a></div>
+  <p><a href="https://italobbarros.github.io/"><img height="30" src="https://cdn-icons.flaticon.com/png/512/2195/premium/2195529.png?token=exp=1635935698~hmac=1960220c371dce3226a6f3cce3bcc4d4"> </img></a><br>
+  <a>Curriculum</a></p>
   </div>
 
 
