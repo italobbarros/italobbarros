@@ -12,10 +12,10 @@
 
   </div>
 <div   
-  width= "100px"
-  height= "100px"
-  background= "#FFF"
-  border-radius= "10px">Curriculum</div>
+  stule = "width: 100px;
+  height: 100px;
+  background: #FFF;
+  border-radius: 10px;">Curriculum</div>
   
   <a href="https://italobbarros.github.io/"><img height="30" src="https://cdn-icons.flaticon.com/png/512/2195/premium/2195529.png?token=exp=1635935698~hmac=1960220c371dce3226a6f3cce3bcc4d4"> </img></a>
 
