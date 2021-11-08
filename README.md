@@ -5,8 +5,7 @@
 - 📚 I'm learning flutter, C# and HTML/CSS
 
 <div align ="center">
-<table style="visibility:hidden">
-	
+<table cellspacing="0" cellpadding="0">	
 <tr>
 <td align ="center">
 <div>
@@ -54,7 +53,7 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
 
 <div align="center">
-<a  href="https://italobbarros.github.io/"><img height="50" align="center" src="https://github.com/italobbarros/italobbarros/blob/main/icon_CV.png"><b>Curriculo</b> </img></a>
+<a  href="https://italobbarros.github.io/"><img height="60" align="center" src="https://github.com/italobbarros/italobbarros/blob/main/icon_CV.png"><br><b>Curriculum  vitae</b> </img></a>
 <div>
   </div>
 </div>
