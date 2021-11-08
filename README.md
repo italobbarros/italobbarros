@@ -4,27 +4,58 @@
 - 🔭 I’m currently working on embedded system
 - 📚 I'm learning flutter, C# and HTML/CSS
 
-<div align="center">
-  <a href="https://github.com/italobbarros">
-  <img height="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=default&langs_count=7&theme=midnight-purple&count_private=true"></img></a>
+<div align ="center">
+<table style="visibility:hidden">
+	
+<tr>
+<td align ="center">
+<div>
+<a href="https://github.com/italobbarros">
+<img height="125" align="center"  src="https://github-readme-stats.vercel.app/api?username=italobbarros&show_icons=true&theme=react&include_all_commits=true&count_private=true"></img>
+</div>
+</td>
+	
+<td rowspan="2">
+<div>  
+<a href="https://github.com/italobbarros">
+<img height="270" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=default&langs_count=6&theme=react&count_private=true"></img>
+</div> 
+</td>
+
+</tr>
+	
+<tr>
+<td align ="center">
+<div>
+<a href="https://github.com/italobbarros">
+<img height="125" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=italobbarros&layout=default&langs_count=5&theme=react"></img> 
+</div>
+</td>
+</tr>
+</table>
+
+
+ 
+
   <!--<img alt="gif" height="150" width="100" src="https://github.com/italobbarros/italobbarros/blob/main/my3Dprint.gif"></img>-->
   
-  </div>
+  
 
   
 
  
 
-<div style="display: inline_block" align="center" ><br>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></img>
-  <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></img>
-  <img align="center" alt="Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></img>
-  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></img>
-  <img align="center" alt="Embedded" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg"></img>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
- 
-  <div align="center">
-  <a  href="https://italobbarros.github.io/"><img height="50" align="center" src="https://github.com/italobbarros/italobbarros/blob/main/icon_CV.png"><b>Curriculo</b> </img></a>
+  <div style="display: inline_block" align="center" ><br>
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></img>
+    <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></img>
+    <img align="center" alt="Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></img>
+    <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></img>
+    <img align="center" alt="Embedded" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg"></img>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
+
+<div align="center">
+<a  href="https://italobbarros.github.io/"><img height="50" align="center" src="https://github.com/italobbarros/italobbarros/blob/main/icon_CV.png"><b>Curriculo</b> </img></a>
+<div>
   </div>
 </div>
 
