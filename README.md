@@ -27,7 +27,7 @@
 <td align ="center">
 <div>
 <a href="https://github.com/italobbarros">
-<img height="125" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=italobbarros&layout=default&langs_count=5&theme=react"></img> 
+<img height="100" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=italobbarros&theme=react&layout=compact"></img> 
 </div>
 </td>
 </tr>
