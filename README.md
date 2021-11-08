@@ -5,9 +5,9 @@
 - 📚 I'm learning flutter, C# and HTML/CSS
 
 <div align ="center">
-<table cellspacing="0" cellpadding="0">	
+<table border="5">	
 <tr>
-<td align ="center">
+<td align ="center" >
 <div>
 <a href="https://github.com/italobbarros">
 <img height="125" align="center"  src="https://github-readme-stats.vercel.app/api?username=italobbarros&show_icons=true&theme=react&include_all_commits=true&count_private=true"></img>
