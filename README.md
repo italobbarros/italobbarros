@@ -10,7 +10,7 @@
 <td align ="center" >
 <div>
 <a href="https://github.com/italobbarros">
-<img height="125" align="center"  src="https://github-readme-stats.vercel.app/api?username=italobbarros&show_icons=true&theme=react&include_all_commits=true&count_private=true"></img>
+<img  width="350" align="center"  src="https://github-readme-stats.vercel.app/api?username=italobbarros&show_icons=true&theme=react&include_all_commits=true&count_private=true"></img>
 </div>
 </td>
 	
@@ -27,7 +27,7 @@
 <td align ="center">
 <div>
 <a href="https://github.com/italobbarros">
-<img height="100" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=italobbarros&theme=react&layout=compact"></img> 
+<img  width="350" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=italobbarros&theme=react&layout=compact"></img> 
 </div>
 </td>
 </tr>
