@@ -32,7 +32,7 @@
 </td>
 </tr>
 </table>
-
+</div>
 
  
 
@@ -51,11 +51,10 @@
     <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></img>
     <img align="center" alt="Embedded" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg"></img>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
+</div><br>
 
 <div align="center">
-<a  href="https://italobbarros.github.io/"><img height="60" align="center" src="https://github.com/italobbarros/italobbarros/blob/main/icon_CV.png"><br><b>Curriculum  vitae</b> </img></a>
-<div>
-  </div>
+<a  href="https://italobbarros.github.io/"><img height="60" align="center" src="https://github.com/italobbarros/italobbarros/blob/main/meusite.png"><br><b>My site</b> </img></a>
 </div>
 
  
