@@ -5,7 +5,7 @@
 - 📚 I'm learning flutter, C# and HTML/CSS
 
 <div align ="center">
-<table border="5">	
+<table border="4">	
 <tr>
 <td align ="center" >
 <div>
