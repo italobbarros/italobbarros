@@ -1,8 +1,8 @@
 ### Hello World! 🤞🎮
 
 - ⚙  I’m a maker and a future eletronic engineer
-- 🔭 I’m currently working on embedded system
-- 📚 I'm learning flutter, C# and HTML/CSS
+- 🔭 I’m currently working on embedded system using C/C++
+- 📚 I'm learning flutter, C#, Js and HTML/CSS
 
 <div align ="center">
 <table border="4">	
