@@ -17,7 +17,7 @@
 <td rowspan="2">
 <div>  
 <a href="https://github.com/italobbarros">
-<img height="270" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=default&langs_count=6&theme=react&count_private=true"></img>
+<img height="280" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=default&langs_count=6&theme=react&count_private=true"></img>
 </div> 
 </td>
 
