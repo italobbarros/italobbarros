@@ -1,6 +1,6 @@
 ### Hello World! 🤞🎮
 
-- ⚙  I’m a maker and a future eletronic engineer
+- ⚙  I’m a maker and a eletronic engineer
 - 🔭 I’m currently working on embedded system using C/C++
 - 📚 I'm learning flutter(dart), C#, Javascript and HTML/CSS
 
