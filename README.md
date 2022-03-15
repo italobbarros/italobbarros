@@ -1,8 +1,8 @@
 ### Hello World! 🤞🎮
 
-- ⚙  I’m a maker and a eletronic engineer
+- ⚙  I’m a Electronic Engineer and a maker
 - 🔭 I’m currently working on embedded system using C/C++
-- 📚 I'm learning flutter(dart), C#, Javascript and HTML/CSS
+- 📚 I'm learning flutter(dart), C#, Javascript , HTML/CSS and Python.
 
 
 <div align ="center">
