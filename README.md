@@ -1,8 +1,7 @@
 ### Hello World! 🤞🎮
 
-- ⚙  I’m a Electronic Engineer and a maker
-- 🔭 I’m currently working on embedded system using C/C++ and Python
-- 📚 I'm learning Rust.
+- ⚙  I’m a Electronic Engineer, maker and backend developer
+- 🔭 I’m currently working on backend using Python and Go
 
 
 <div align ="center">
@@ -18,7 +17,7 @@
 <td rowspan="2">
 <div>  
 <a href="https://github.com/italobbarros">
-<img height="280" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=default&langs_count=6&theme=react&count_private=true"></img>
+<img height="280" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobbarros&layout=donut-vertical"></img>
 </div> 
 </td>
 
